@@ -361,12 +361,6 @@
             ],
             "version": "==0.3.0"
         },
-        "statistics": {
-            "hashes": [
-                "sha256:2dc379b80b07bf2ddd5488cad06b2b9531da4dd31edb04dc9ec0dc226486c138"
-            ],
-            "version": "==1.0.3.5"
-        },
         "tableschema": {
             "hashes": [
                 "sha256:02f5f96bd63508847733832b5e1e572bc7dbb4c61e9bd3b1f71fc115561d860b",
