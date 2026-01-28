@@ -873,12 +873,6 @@
             ],
             "version": "==0.3.0"
         },
-        "statistics": {
-            "hashes": [
-                "sha256:2dc379b80b07bf2ddd5488cad06b2b9531da4dd31edb04dc9ec0dc226486c138"
-            ],
-            "version": "==1.0.3.5"
-        },
         "stevedore": {
             "hashes": [
                 "sha256:18afaf1d623af5950cc0f7e75e70f917784c73b652a34a12d90b309451b5500b",
