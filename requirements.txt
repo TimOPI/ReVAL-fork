@@ -40,7 +40,7 @@ s3transfer==0.5.2
 simpleeval==0.9.13
 six==1.16.0
 SQLAlchemy==1.4.49
-sqlparse==0.4.4
+sqlparse==0.5.4
 tableschema==1.20.2
 tabulator==1.53.5
 typing-extensions==4.1.1
